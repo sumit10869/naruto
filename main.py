@@ -21,6 +21,7 @@ from config import *
 import sys
 import re
 import os
+import math
 
 bot = Client("bot",
              bot_token= "6047785902:AAFmHAKkyofYcB6yS67nREtc5CKshZ1zhUE",
